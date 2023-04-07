@@ -1,0 +1,560 @@
+#1
+best Chromo: [2, 2, 2, 2, 2, 1, 1, 2, 1, 2, 1, 2, 2, 1, 2, 1, 1, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 2, 1] has fit: 0.11012491781722596
+mutation: 0
+crossover: 1
+
+#
+best Chromo: [2, 2, 2, 2, 2, 1, 1, 2, 1, 2, 2, 2, 1, 2, 1, 2, 2, 2, 1, 2, 2, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 2, 1, 1] has fit: 0.15844838921762033
+muation: 1
+crossover: 1
+
+#3
+best 
+Chromo: [2, 2, 2, 2, 2, 2, 1, 2, 1, 1, 2, 2, 2, 1, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 2, 1, 2, 2, 1, 2, 2, 1, 1, 1] has fit: 0.12812294543063812
+mutation seed: 1
+crossover seed: 1
+
+#4
+best 
+Chromo: [1, 1, 2, 1, 2, 1, 1, 1, 2, 2, 2, 1, 1, 1, 2, 2, 1, 2, 2, 1, 2, 1, 2, 1, 1, 2, 1, 1, 2, 1, 2, 2, 2, 2] has fit: 0.16633793556870494
+mutation seed: 1
+crossover seed: 1
+
+#5
+best 
+Chromo: [2, 2, 1, 2, 2, 1, 1, 2, 1, 1, 2, 2, 2, 2, 2, 1, 1, 2, 1, 2, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 1, 2, 1] has fit: 0.08941485864562837
+mutation seed: 1
+crossover seed: 1
+number of generations: 20
+
+#6
+best 
+Chromo: [2, 2, 2, 2, 2, 2, 1, 2, 1, 2, 2, 1, 2, 1, 1, 1, 2, 2, 1, 2, 1, 2, 2, 1, 2, 2, 2, 2, 2, 1, 1, 2, 1, 1] has fit: 0.16559829059829095
+mutation seed: 1
+crossover seed: 1
+number of generations: 20
+
+#7
+best 
+Chromo: [2, 1, 2, 2, 1, 1, 1, 2, 1, 2, 1, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 1, 1, 2, 2, 2, 1, 2, 1, 1] has fit: 0.12417817225509577
+mutation seed: 1
+crossover seed: 1
+number of generations: 20
+
+#8
+best 
+Chromo: [2, 2, 2, 2, 2, 1, 2, 2, 1, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 2, 1, 2, 2, 2, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1] has fit: 0.12417817225509586
+mutation seed: 1
+crossover seed: 1
+number of generations: 20
+
+#9
+best 
+Chromo: [2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 2, 2, 2, 2, 2, 1, 2, 2, 1, 1, 1, 2, 1, 1, 2, 1, 1, 1, 1, 2, 2, 1, 1, 1] has fit: 0.21688034188034136
+mutation seed: 1
+crossover seed: 1
+number of generations: 20
+
+#10
+best 
+Chromo: [2, 2, 2, 2, 2, 1, 2, 2, 2, 1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 2, 1, 1, 2, 1, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1] has fit: 0.14718934911242654
+mutation seed: 1
+crossover seed: 1
+number of generations: 20
+
+#11
+best 
+Chromo: [1, 1, 2, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 2, 1, 2, 1, 2, 2, 1, 1, 2, 2, 2, 2, 2, 1, 2, 1, 2, 2, 1, 2, 2] has fit: 0.11826101249178213
+mutation seed: 1
+crossover seed: 1
+number of generations: 50
+
+#12
+best 
+Chromo: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2, 2, 2, 2, 1, 1, 1, 2, 1, 2, 1, 1, 1, 2, 2, 2, 2, 2, 2] has fit: 0.14562787639710725
+mutation seed: 1
+crossover seed: 1
+number of generations: 50
+
+#13
+best 
+Chromo: [1, 1, 1, 1, 2, 1, 1, 1, 1, 2, 2, 2, 2, 1, 2, 2, 1, 1, 2, 2, 2, 2, 2, 1, 2, 2, 2, 1, 2, 2, 2, 1, 2, 2] has fit: 0.11406969099276838
+mutation seed: 1
+crossover seed: 1
+number of generations: 30
+
+#14
+best 
+Chromo: [2, 1, 2, 2, 2, 2, 2, 1, 1, 1, 2, 1, 1, 2, 1, 1, 2, 2, 1, 1, 1, 2, 2, 2, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1] has fit: 0.10355029585798871
+mutation seed: 1
+crossover seed: 1
+number of generations: 30
+
+#15
+best 
+Chromo: [1, 1, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 2, 1, 2, 2, 2, 1, 2, 2, 2, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2] has fit: 0.03279092702169626
+mutation seed: 1
+crossover seed: 1
+number of generations: 30
+
+#16
+best 
+Chromo: [2, 2, 2, 2, 1, 1, 2, 2, 2, 1, 1, 2, 1, 2, 2, 1, 2, 2, 2, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1] has fit: 0.08842866535174276
+mutation seed: 1
+crossover seed: 1
+number of generations: 30
+
+#17
+best 
+Chromo: [1, 1, 1, 2, 1, 1, 1, 2, 2, 2, 2, 2, 2, 1, 2, 2, 1, 1, 2, 1, 1, 2, 2, 2, 2, 1, 2, 2, 1, 2, 2, 2, 2, 2] has fit: 0.1035502958579886
+mutation seed: 1
+crossover seed: 1
+number of generations: 30
+
+#18
+best 
+Chromo: [2, 2, 2, 2, 1, 2, 2, 2, 2, 1, 1, 1, 1, 2, 1, 2, 2, 1, 1, 1, 2, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1] has fit: 0.10050953320184135
+mutation seed: 1
+crossover seed: 1
+number of generations: 30
+
+#19
+best 
+Chromo: [1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 2, 2, 1, 1, 2, 1, 1, 2, 2, 2, 1, 1, 2, 1, 1, 2, 1, 1, 2, 2] has fit: 0.1241781722550958
+mutation seed: 1
+crossover seed: 1
+number of generations: 30
+
+#20
+best 
+Chromo: [2, 1, 2, 1, 2, 2, 2, 1, 2, 1, 2, 2, 2, 1, 1, 1, 1, 2, 1, 2, 1, 1, 2, 1, 1, 1, 2, 1, 1, 2, 1, 1, 1, 1] has fit: 0.10445430637738386
+mutation seed: 1
+crossover seed: 1
+number of generations: 30
+
+#21
+best 
+Chromo: [1, 1, 2, 2, 2, 2, 1, 2, 2, 2, 2, 1, 1, 1, 2, 2, 1, 2, 2, 1, 1, 1, 1, 2, 2, 2, 2, 1, 1, 1, 2, 2, 2, 2] has fit: -0.004026955950032863
+mutation seed: 1
+crossover seed: 1
+number of generations: 30
+
+#22
+best 
+Chromo: [2, 1, 2, 2, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 2, 1, 2, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1] has fit: 0.1614069690992773
+mutation seed: 1
+crossover seed: 1
+number of generations: 30
+
+#23
+best 
+Chromo: [1, 1, 2, 1, 1, 1, 2, 1, 2, 2, 1, 2, 2, 1, 1, 2, 2, 1, 2, 2, 2, 1, 2, 2, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2] has fit: 0.1754602235371471
+mutation seed: 1
+crossover seed: 1
+number of generations: 30
+
+#24
+best 
+Chromo: [1, 1, 1, 1, 2, 1, 1, 2, 1, 2, 1, 1, 1, 1, 2, 2, 2, 2, 2, 1, 1, 1, 2, 2, 2, 2, 1, 1, 2, 2, 1, 2, 1, 2] has fit: 0.16633793556870527
+mutation seed: 1
+crossover seed: 1
+number of generations: 30
+
+#25
+best 
+Chromo: [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1, 2, 1, 2, 2, 1, 2, 2, 2, 2, 2] has fit: 0.21761998685075568
+mutation seed: 1
+crossover seed: 1
+number of generations: 30
+
+#26
+best 
+Chromo: [1, 2, 2, 1, 1, 2, 1, 2, 2, 2, 1, 2, 1, 1, 2, 2, 1, 2, 1, 2, 2, 2, 2, 2, 1, 2, 1, 2, 2, 1, 2, 2, 2, 2] has fit: 0.24819197896120926
+mutation seed: 1
+crossover seed: 1
+number of generations: 200
+
+#27
+best 
+Chromo: [1, 2, 2, 2, 1, 1, 1, 2, 1, 2, 1, 2, 1, 1, 2, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 2, 2, 1, 2, 2, 1, 2] has fit: 0.18836291913214978
+mutation seed: 1
+crossover seed: 1
+number of generations: 30
+
+#28
+best 
+Chromo: [1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 1, 1, 2, 1, 2, 2, 1, 1, 2, 2, 2, 2, 2, 2, 1, 1, 1, 2, 1, 2, 1, 2, 2, 1] has fit: 0.1761998685075606
+mutation seed: 1
+crossover seed: 1
+number of generations: 30
+
+#29
+best 
+Chromo: [2, 1, 2, 1, 2, 2, 1, 2, 2, 2, 2, 1, 2, 2, 2, 1, 2, 2, 1, 1, 1, 1, 1, 1, 2, 2, 1, 1, 2, 1, 1, 2, 1, 2] has fit: 0.1728303747534521
+mutation seed: 1
+crossover seed: 1
+number of generations: 30
+
+#30
+best 
+Chromo: [2, 2, 2, 2, 1, 2, 2, 2, 1, 2, 1, 1, 1, 2, 1, 1, 1, 2, 1, 1, 1, 2, 2, 1, 1, 1, 1, 2, 2, 1, 1, 2, 1, 1] has fit: 0.2166337935568704
+mutation seed: 1
+crossover seed: 1
+number of generations: 30
+
+#31
+best 
+Chromo: [1, 2, 1, 2, 2, 2, 2, 1, 2, 2, 1, 2, 2, 2, 2, 1, 2, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1] has fit: 0.16370808678501036
+mutation seed: 1
+crossover seed: 1
+number of generations: 30
+
+#32
+best 
+Chromo: [1, 1, 1, 2, 1, 1, 1, 1, 2, 2, 1, 1, 1, 2, 2, 2, 1, 1, 2, 1, 2, 1, 2, 2, 1, 2, 2, 2, 2, 1, 1, 1, 2, 1] has fit: 0.20307363576594328
+mutation seed: 1
+crossover seed: 1
+number of generations: 30
+
+#33
+best 
+Chromo: [2, 2, 2, 2, 1, 2, 2, 2, 1, 2, 1, 2, 2, 2, 2, 1, 1, 1, 2, 2, 1, 2, 1, 1, 1, 2, 1, 2, 2, 1, 2, 1, 2, 1] has fit: 0.15310650887574015
+mutation seed: 1
+crossover seed: 1
+number of generations: 30
+
+#34
+best 
+Chromo: [1, 2, 1, 2, 1, 2, 2, 2, 1, 1, 2, 2, 1, 2, 1, 1, 2, 1, 1, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 1, 1] has fit: 0.1969099276791583
+mutation seed: 1
+crossover seed: 1
+number of generations: 30
+
+#35
+best 
+Chromo: [2, 2, 2, 2, 1, 2, 2, 1, 1, 1, 2, 2, 2, 2, 1, 1, 2, 2, 1, 2, 2, 2, 2, 1, 2, 2, 1, 2, 2, 2, 2, 1, 1, 1] has fit: 0.1584483892176202
+mutation seed: 1
+crossover seed: 1
+number of generations: 30
+
+#36
+best 
+Chromo: [1, 1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 1, 2, 1, 2, 2, 2, 1, 2, 2, 2, 2, 2, 2, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2] has fit: 0.2267422748191977
+mutation seed: 1
+crossover seed: 1
+number of generations: 30
+
+#37
+best 
+Chromo: [1, 2, 1, 2, 2, 2, 1, 2, 2, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 1, 1] has fit: 0.21268902038132756
+mutation seed: 2
+crossover seed: 1
+number of generations: 30
+
+#38
+best 
+Chromo: [1, 1, 2, 2, 2, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 2, 1, 1, 1, 1, 1] has fit: 0.2300295857988163
+mutation seed: 2
+crossover seed: 1
+number of generations: 30
+
+#39
+best 
+Chromo: [2, 2, 1, 1, 2, 1, 2, 2, 2, 1, 2, 1, 2, 2, 2, 1, 1, 1, 1, 1, 1, 2, 1, 2, 2, 1, 2, 1, 1, 2, 1, 1, 2, 1] has fit: 0.20973044049967088
+mutation seed: 2
+crossover seed: 1
+number of generations: 30
+
+#40
+best 
+Chromo: [1, 1, 2, 2, 2, 2, 2, 1, 2, 1, 1, 1, 2, 1, 2, 2, 2, 1, 2, 1, 1, 1, 2, 1, 1, 1, 1, 2, 2, 2, 1, 1, 1, 2] has fit: 0.19518408941485815
+mutation seed: 2
+crossover seed: 1
+number of generations: 30
+
+#41
+best 
+Chromo: [1, 1, 2, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 2, 2, 2, 1, 1, 2, 2, 2, 2, 1, 2, 2, 2, 2, 1, 1] has fit: 0.17743261012491812
+mutation seed: 2
+crossover seed: 1
+number of generations: 30
+
+#42
+best 
+Chromo: [2, 2, 2, 2, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 2, 1, 1, 1, 2, 1, 2] has fit: 0.1804733727810655
+mutation seed: 2
+crossover seed: 1
+number of generations: 30
+
+#43
+best 
+Chromo: [1, 1, 2, 2, 1, 1, 2, 2, 1, 2, 1, 2, 2, 1, 1, 2, 1, 2, 1, 1, 1, 2, 1, 1, 2, 1, 1, 2, 1, 1, 2, 2, 1, 1] has fit: 0.16633793556870427
+mutation seed: 2
+crossover seed: 1
+number of generations: 30
+
+#44
+best 
+Chromo: [1, 1, 1, 1, 2, 1, 1, 1, 2, 2, 2, 2, 2, 1, 1, 2, 1, 2, 2, 2, 2, 1, 2, 2, 2, 2, 1, 2, 2, 2, 1, 2, 1, 1] has fit: 0.1787475345167654
+mutation seed: 2
+crossover seed: 1
+number of generations: 30
+
+#45
+best 
+Chromo: [1, 1, 2, 1, 1, 1, 2, 2, 1, 1, 1, 1, 2, 2, 1, 2, 2, 2, 1, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1] has fit: 0.2166337935568704
+mutation seed: 2
+crossover seed: 1
+number of generations: 30
+
+#46
+best 
+Chromo: [1, 1, 1, 2, 1, 1, 1, 2, 1, 1, 1, 2, 1, 2, 2, 1, 2, 1, 1, 2, 2, 1, 2, 2, 2, 2, 2, 2, 1, 1, 2, 2, 1, 2] has fit: 0.1663379355687053
+mutation seed: 2
+crossover seed: 1
+number of generations: 30
+
+#47
+best 
+Chromo: [2, 2, 2, 2, 1, 2, 1, 2, 1, 2, 2, 2, 2, 1, 2, 1, 1, 2, 1, 1, 2, 1, 1, 1, 2, 2, 1, 2, 2, 1, 2, 2, 1, 1] has fit: 0.11012491781722591
+mutation seed: 3
+crossover seed: 1
+number of generations: 30
+
+#48
+best 
+Chromo: [1, 1, 1, 1, 1, 2, 2, 1, 2, 2, 2, 2, 2, 1, 1, 1, 2, 1, 2, 1, 2, 1, 2, 2, 2, 2, 1, 2, 1, 2, 2, 2, 2, 2] has fit: 0.1728303747534521
+mutation seed: 3
+crossover seed: 1
+number of generations: 30
+
+#49
+best 
+Chromo: [2, 2, 2, 2, 1, 2, 1, 2, 2, 1, 2, 1, 2, 2, 2, 2, 1, 2, 1, 1, 1, 2, 1, 1, 2, 1, 1, 2, 2, 1, 1, 1, 1, 1] has fit: 0.16535174227481955
+mutation seed: 3
+crossover seed: 1
+number of generations: 30
+
+#50
+best 
+Chromo: [1, 2, 1, 1, 1, 1, 1, 2, 2, 1, 2, 2, 1, 1, 2, 1, 1, 1, 1, 1, 2, 1, 2, 2, 2, 1, 1, 2, 2, 2, 2, 2, 2, 2] has fit: 0.14718934911242657
+mutation seed: 3
+crossover seed: 1
+number of generations: 30
+
+#51
+best 
+Chromo: [1, 1, 1, 2, 2, 1, 1, 1, 2, 2, 1, 1, 1, 2, 2, 2, 1, 1, 2, 2, 2, 1, 2, 1, 2, 2, 2, 2, 1, 2, 1, 2, 2, 2] has fit: 0.12417817225509574
+mutation seed: 3
+crossover seed: 1
+number of generations: 30
+
+#52
+best 
+Chromo: [1, 1, 2, 1, 1, 1, 2, 1, 1, 2, 1, 2, 1, 1, 1, 2, 2, 1, 2, 1, 2, 1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 2] has fit: 0.13280736357659476
+mutation seed: 3
+crossover seed: 1
+number of generations: 30
+
+#53
+best 
+Chromo: [2, 2, 1, 1, 2, 2, 2, 2, 2, 1, 2, 2, 1, 1, 1, 1, 2, 1, 1, 1, 2, 2, 1, 2, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1] has fit: 0.1498191978961214
+mutation seed: 3
+crossover seed: 1
+number of generations: 30
+
+#54
+best 
+Chromo: [1, 2, 2, 2, 1, 1, 1, 1, 2, 1, 1, 1, 2, 1, 2, 2, 1, 2, 2, 2, 2, 1, 2, 2, 1, 1, 1, 2, 1, 2, 2, 1, 2, 2] has fit: 0.16099605522682475
+mutation seed: 3
+crossover seed: 1
+number of generations: 30
+
+#55
+best 
+Chromo: [2, 1, 2, 2, 2, 2, 2, 2, 1, 2, 2, 1, 2, 2, 2, 1, 2, 2, 1, 2, 2, 2, 2, 1, 1, 2, 1, 1, 1, 2, 1, 1, 1, 1] has fit: 0.16633793556870446
+mutation seed: 3
+crossover seed: 1
+number of generations: 30
+
+#56
+best 
+Chromo: [1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 2, 2, 2, 2, 1, 2, 1, 1, 2, 2, 2, 2, 2, 1, 1, 2, 2, 2, 2, 2] has fit: 0.14069690992767966
+mutation seed: 3
+crossover seed: 1
+number of generations: 30
+
+#57
+best 
+Chromo: [2, 2, 1, 1, 2, 2, 2, 2, 2, 1, 2, 2, 2, 1, 1, 1, 2, 2, 1, 1, 2, 1, 2, 1, 1, 1, 2, 1, 1, 1, 2, 1, 1, 1] has fit: 0.1655982905982908
+mutation seed: 4
+crossover seed: 1
+number of generations: 30
+
+#58
+best 
+Chromo: [2, 2, 2, 2, 2, 2, 1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 2, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 1] has fit: 0.17743261012491787
+mutation seed: 4
+crossover seed: 1
+number of generations: 30
+
+#59
+best 
+Chromo: [1, 2, 1, 1, 1, 1, 1, 2, 2, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 2, 1, 2, 2, 2, 2, 1, 2, 2, 2, 2, 1, 2, 2] has fit: 0.16535174227481936
+mutation seed: 4
+crossover seed: 1
+number of generations: 30
+
+#60
+best 
+Chromo: [2, 2, 2, 1, 2, 2, 2, 2, 2, 1, 2, 1, 1, 1, 1, 2, 2, 1, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1] has fit: 0.1281229454306382
+mutation seed: 4
+crossover seed: 1
+number of generations: 30
+
+#61
+best 
+Chromo: [1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 2, 2, 2, 2, 1, 2, 1, 2, 1, 2, 2, 1, 1, 2, 1, 2, 2, 2, 2, 2, 2] has fit: 0.17874753451676564
+mutation seed: 4
+crossover seed: 1
+number of generations: 30
+
+#62
+best 
+Chromo: [2, 2, 2, 2, 2, 1, 1, 2, 1, 2, 2, 1, 2, 2, 2, 1, 1, 1, 1, 2, 2, 1, 1, 1, 2, 2, 1, 2, 2, 1, 1, 1, 1, 1] has fit: 0.14069690992767958
+mutation seed: 4
+crossover seed: 1
+number of generations: 30
+
+#63
+best 
+Chromo: [2, 2, 1, 2, 1, 2, 2, 2, 1, 2, 2, 2, 2, 2, 2, 1, 2, 2, 1, 2, 2, 1, 1, 1, 1, 2, 2, 1, 1, 2, 1, 2, 1, 1] has fit: 0.11406969099276835
+mutation seed: 4
+crossover seed: 1
+number of generations: 30
+
+#64
+best 
+Chromo: [2, 2, 2, 2, 2, 2, 2, 1, 2, 2, 1, 2, 1, 2, 1, 1, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 1, 2, 1, 1, 2] has fit: 0.10223537146614123
+mutation seed: 4
+crossover seed: 1
+number of generations: 30
+
+#65
+best 
+Chromo: [1, 2, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 2, 1, 1, 2, 1, 1, 2, 2, 2, 1, 2, 2, 2, 2, 2, 2, 2, 1, 1, 2, 2, 2] has fit: 0.16140696909927704
+mutation seed: 4
+crossover seed: 1
+number of generations: 30
+
+#66
+best 
+Chromo: [1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 1, 1, 2, 2, 2, 2, 2, 1, 2, 1, 2, 1, 2, 1, 1, 1, 2, 2, 2, 2, 1, 1, 2, 2] has fit: 0.1584483892176202
+mutation seed: 4
+crossover seed: 1
+number of generations: 30
+
+#67
+best 
+Chromo: [1, 1, 1, 2, 2, 2, 1, 2, 1, 1, 2, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 2, 2, 1, 2, 1, 2, 1, 1, 1, 1] has fit: 0.1761998685075611
+mutation seed: 2
+crossover seed: 2
+number of generations: 30
+
+#68
+best 
+Chromo: [2, 2, 1, 1, 1, 1, 1, 2, 1, 2, 2, 2, 1, 1, 1, 2, 1, 1, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 2, 2, 1, 2, 2, 1] has fit: 0.2422748191978954
+mutation seed: 2
+crossover seed: 2
+number of generations: 30
+
+#69
+best 
+Chromo: [2, 1, 2, 1, 2, 1, 2, 2, 1, 2, 1, 2, 1, 1, 1, 1, 2, 2, 1, 2, 2, 2, 2, 2, 2, 2, 1, 1, 2, 2, 2, 2, 2, 1] has fit: 0.19690992767915866
+mutation seed: 2
+crossover seed: 2
+number of generations: 30
+
+#70
+best 
+Chromo: [1, 2, 2, 1, 1, 2, 1, 1, 2, 1, 1, 2, 1, 2, 2, 1, 1, 2, 1, 2, 2, 2, 1, 1, 2, 2, 2, 2, 2, 1, 2, 1, 1, 1] has fit: 0.23068704799473969
+mutation seed: 2
+crossover seed: 2
+number of generations: 30
+
+#71
+best 
+Chromo: [2, 1, 2, 1, 1, 2, 1, 2, 2, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 1, 2, 2, 2, 1, 1, 1] has fit: 0.20307363576594353
+mutation seed: 2
+crossover seed: 2
+number of generations: 30
+
+#72
+best 
+Chromo: [2, 2, 2, 1, 2, 2, 1, 1, 2, 2, 2, 2, 2, 2, 1, 1, 2, 1, 1, 2, 1, 2, 1, 1, 2, 1, 1, 1, 2, 1, 2, 1, 1, 1] has fit: 0.1663379355687052
+mutation seed: 1
+crossover seed: 2
+number of generations: 30
+
+#73
+best 
+Chromo: [2, 1, 2, 2, 2, 2, 2, 1, 1, 2, 2, 1, 1, 2, 2, 2, 1, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 2, 1, 1] has fit: 0.20110124917817243
+mutation seed: 1
+crossover seed: 2
+number of generations: 30
+
+#74
+best 
+Chromo: [1, 1, 2, 1, 1, 2, 1, 1, 2, 1, 1, 2, 2, 1, 1, 2, 2, 2, 2, 1, 2, 1, 2, 2, 2, 2, 2, 2, 2, 1, 2, 2, 2, 2] has fit: 0.16954306377383327
+mutation seed: 1
+crossover seed: 2
+number of generations: 30
+
+#75
+best 
+Chromo: [2, 1, 2, 2, 1, 2, 1, 2, 1, 1, 2, 1, 2, 2, 1, 2, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1] has fit: 0.2149901380670608
+mutation seed: 1
+crossover seed: 2
+number of generations: 30
+
+#76
+best 
+Chromo: [2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 2, 1, 1, 2, 2, 2, 2, 2, 1, 1, 1, 2, 1, 2, 1, 2, 2, 1, 1, 2, 1, 1, 1, 1] has fit: 0.1584483892176204
+mutation seed: 1
+crossover seed: 2
+number of generations: 30
+
+#77
+best 
+Chromo: [2, 2, 2, 2, 1, 2, 1, 1, 2, 1, 2, 1, 2, 2, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1] has fit: 0.17546022353714713
+mutation seed: 3
+crossover seed: 2
+number of generations: 30
+
+#78
+best 
+Chromo: [2, 2, 2, 2, 2, 1, 2, 2, 2, 2, 1, 1, 2, 2, 2, 1, 1, 2, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 2, 1, 1, 2, 1, 1] has fit: 0.14562787639710764
+mutation seed: 3
+crossover seed: 2
+number of generations: 30
+
+#79
+best 
+Chromo: [1, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 1, 1, 1, 2, 1, 2, 2, 2, 1, 1, 2, 2, 2, 2, 2, 2, 2] has fit: 0.11012491781722601
+mutation seed: 3
+crossover seed: 2
+number of generations: 30
+
+#80
+best 
+Chromo: [2, 2, 2, 2, 2, 1, 2, 2, 2, 2, 2, 2, 1, 2, 1, 1, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1] has fit: 0.11760355029585842
+mutation seed: 3
+crossover seed: 2
+number of generations: 30
+
+#81
+best 
+Chromo: [1, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1, 1, 1, 2, 2, 2, 2, 2, 1, 2, 2, 1, 2, 2, 2] has fit: 0.19197896120973054
+mutation seed: 3
+crossover seed: 2
+number of generations: 30

@@ -46,5 +46,5 @@ def plotNetwork(G, communities):
     plt.figure(figsize=(4, 4))  # image is 8 x 8 inches 
     nx.draw_networkx_nodes(G, pos, node_size=600, node_color = list(communities.values()), label=True)
     nx.draw_networkx_edges(G, pos, alpha=0.3)
-    #nx.draw_networkx_labels(G, pos)
+    nx.draw_networkx_labels(G, pos, font_size=6)
     plt.show()

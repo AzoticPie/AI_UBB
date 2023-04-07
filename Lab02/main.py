@@ -1,4 +1,3 @@
-    # prerequisites
 import os
 import warnings 
 from readnplot import *
@@ -9,7 +8,7 @@ warnings.simplefilter('ignore')
 def testExample():
     filePath = 'net.in'
     network = readNet(filePath)
-    plotNetwork(network, greedyCommunitiesDetection(network.copy(), 7))
+    plotNetwork(network, greedyCommunitiesDetection(network.copy()))
 
 
 def test1():
@@ -40,7 +39,7 @@ def test5():
 def test6():
     filePath = os.path.join('real', 'lesmis', 'lesmis.gml')
     network = nx.read_gml(filePath, destringizer=int)
-    plotNetwork(network, greedyCommunitiesDetection(network.copy()))
+    plotNetwork(network, greedyCommunitiesDetection(network.copy(), 20))
 
 def test7():
     filePath = os.path.join('real', 'adjnoun', 'adjnoun.gml')
@@ -62,4 +61,4 @@ def test0():
     network = nx.read_gml(filePath, destringizer=int, label='id')
     plotNetwork(network, greedyCommunitiesDetection(network.copy(), 10))
 
-test0()
+test8()
