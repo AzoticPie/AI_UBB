@@ -11,7 +11,6 @@ def evalClassification(realLabels, computedLabels, labelNames):
 
     #loss = log_loss(realLabels, computedLabels, labels = labelNames)
 
-
     cm_display = ConfusionMatrixDisplay(confusion_matrix=cm, display_labels=labelNames)
     fig, ax = plt.subplots(figsize=(8, 8))
     cm_display.plot(ax=ax)

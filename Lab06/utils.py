@@ -38,3 +38,13 @@ def separate_data_df(df, labels):
     df_validate = df_validate[df_validate['keep'] == False]
 
     return df_train.drop('keep', axis=1), df_validate.drop('keep', axis=1)
+
+def separate_data_df_lipsa(df, labels, label):
+    df_train = df[df[labels[1]].notnull()]
+    df_validate = df[df[label].isnull()]
+
+    df_train = df_train[df[labels[0]].notnull()]
+
+    df_train = df_train[labels].copy()
+    df_validate = df_validate[labels].copy()
+    return df_train, df_validate
