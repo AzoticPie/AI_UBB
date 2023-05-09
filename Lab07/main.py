@@ -1,6 +1,6 @@
 import pandas as pd
 import os
-import tensorflow as tf
+#import tensorflow as tf
 from sklearn.metrics import mean_squared_error as mse
 import plot
 import utils

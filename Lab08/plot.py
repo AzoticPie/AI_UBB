@@ -12,9 +12,9 @@ def plot_metrics(df, target_label='target', predicted_label='predicted'):
     error = 1 - accuracy_score(df[target_label], df[predicted_label])
     print("classification error (tool): ", error)
 
-def plot_gen_mse(computed_mses):
-    fig = plt.plot(range(len(computed_mses)), computed_mses, 'r-', label='mse')
-    plt.title('final mse = ' + str(computed_mses[-1]))
+def plot_gen_mse(computed_mses, name):
+    fig = plt.plot(range(computed_mses.size), computed_mses, 'r-', label='mse')
+    plt.title(f'final {name} = ' + str(computed_mses[-1]))
     plt.xlabel('Generation')
     plt.ylabel('mse')
     plt.show()
