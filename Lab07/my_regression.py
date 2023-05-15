@@ -9,7 +9,7 @@ class MySGDRegression:
         self.coef_ = None
 
     # simple stochastic GD
-    def fit(self, x, y, df_val, df_out,  learningRate = 0.001, noEpochs = 1000):
+    def fit(self, x, y, df_val, df_out,  learningRate = 0.0001, noEpochs = 1000):
         #self.coef_ = np.zeros(x.shape[1])
         self.coef_ = [random.random() for _ in range(x.shape[1])]    #beta or w coefficients 
         #self.intercept_ = random.random()

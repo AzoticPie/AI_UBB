@@ -137,7 +137,7 @@ class MyLogisticRegression3:
         self.coef_ = []
         self.classes_ = []
 
-    def fit(self, X, y, y_oh, df_val, df_out, learningRate = 0.1, noEpochs = 10000):
+    def fit(self, X, y, y_oh, df_val, df_out, learningRate = 0.1, noEpochs = 15000):
         #self.coef_ = [0.0 for _ in range(x.shape[1])]   #beta or w coefficients y = w0 + w1 * x1 + w2 * x2 + ...
         self.classes_ = np.unique(y)
         results_loss = np.array([])
@@ -146,12 +146,14 @@ class MyLogisticRegression3:
             self.coef_.append(np.array([random.random() for _ in range(X.shape[1])]))   #beta or w coefficients 
             self.intercept_.append(0.0)
 
-        for _ in range(noEpochs):
+        for epoch in range(noEpochs):
+            print(epoch)
             for c in range(len(self.classes_)):
-                #permutation = np.random.permutation(X.shape[0])
-                #X = X.iloc[permutation]
-                #y = y.iloc[permutation]
-                
+                permutation = np.random.permutation(X.shape[0])
+                X = X.iloc[permutation]
+                y = y.iloc[permutation]
+                y_oh = y_oh.take(permutation, axis=0)
+
                 ycomputed = self.predict(X, c)
                 sig = sigmoid(ycomputed)
                 grad_w = self.dldw(X, y_oh[:,c], sig)
@@ -159,9 +161,11 @@ class MyLogisticRegression3:
                 self.coef_[c] = np.array(self.update(self.coef_[c], grad_w,learningRate))
                 self.intercept_[c] = self.update(self.intercept_[c], grad_b,learningRate)
         
-                predicted = np.array(self.predicted(df_val))
-                results_acc = np.append(results_acc, accuracy_score(df_out, predicted))
-                results_loss = np.append(results_loss, self.loss(df_out, np.max(self.sigs(df_val), axis=0)))
+            predicted = np.array(self.predicted(df_val))
+            results_acc = np.append(results_acc, accuracy_score(df_out, predicted))
+            results_loss = np.append(results_loss, np.min(self.loss(y_oh[:, c], sig)))
+            #print(type(np.argmin(self.loss(y_oh[:, c], sig), axis=0)))
+            #results_loss = np.append(results_loss, self.loss(df_out, np.max(self.sigs(df_val), axis=0)))
         
         return results_acc, results_loss
 
@@ -187,7 +191,7 @@ class MyLogisticRegression3:
         return temp + self.intercept_[c]  
 
     def loss(self, y, sig):
-        return -(y*np.log(sig)+(1-y)*np.log(1-sig)).mean()
+        return -((y*np.log(sig)+(1-y)*np.log(1-sig)).mean())
     
     def dldw(self, x, y, sig):
         temp = np.reshape([sig-y], (x.shape[0], 1))
