@@ -8,5 +8,4 @@ def tsp_fitness(network, chromosome):
 
     total_distance += network['matrix'][chromosome[-1]][chromosome[0]]  # Distance between last and first nodes
 
-    # Inverse the total distance to make it a minimization problem
     return total_distance
